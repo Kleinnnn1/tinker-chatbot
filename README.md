@@ -1,4 +1,4 @@
-# TinkerPro Backend
+# TinkerPro Chatbot
 
 Handles chatbot requests using OpenAI and company-specific context.
 
